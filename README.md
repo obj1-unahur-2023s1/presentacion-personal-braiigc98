@@ -1,35 +1,23 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![imagen mia](./assets/yoimg.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+# Presentación - Brian Cruz:
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, mi nombre es Brian, tengo 25 años y soy de Castelar.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+# En relación a la programación 🖥️
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+Además de estar estudiando en UNAHUR, realice un curso a parte de front-end y desde entonces,
+de manera autodidacta y complementando con la uni, intento meterme más con lo que es front-end.
+Me interesa también lo que es el desarrollo y diseño de videojuegos.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+# Un poco más sobre mi
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Me gusta mirar anime, Jujutsu Kaisen es de mis favoritos.
+También me gustan los deportes, soy hincha de River y juego fulbito los viernes y domingos. Antes hacía natación
+y realmente me gustaría volver.
+Soy de jugar en la pc y mis juegos favoritos son de terror psicológico o shooters.
+Tengo un gato que es TODO UN PERSONAJE.
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+# Para cerrar
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Espero que tengamos una buena cursada, les mando un abrazo!
